@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 
-UMKM Website adalah aplikasi web yang dirancang sebagai platform untuk membantu masyarakat menemukan dan mengenal berbagai Usaha Mikro, Kecil, dan Menengah (UMKM) dalam satu tempat. Konsepnya terinspirasi dari marketplace, namun lebih berfokus pada penyediaan informasi mengenai pelaku UMKM beserta produk atau layanan yang mereka tawarkan.
+UMKM Website adalah web yang dirancang sebagai platform untuk membantu masyarakat menemukan dan mengenal berbagai Usaha Mikro, Kecil, dan Menengah (UMKM) dalam satu tempat. Konsepnya terinspirasi dari marketplace, namun lebih berfokus pada penyediaan informasi mengenai pelaku UMKM beserta produk atau layanan yang mereka tawarkan.
 
 ## 🎯 Project Objectives
 
